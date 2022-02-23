@@ -5,20 +5,20 @@ date: 01-01-2022
 ---
 
 - [Télécharger les fichiers permettant de suivre les cours et de faire les exercices](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk).
-- [[Documentation/HTML-CSS/Cours HTML CSS JS/Ressources |Ressources]]
+- [Ressources](https://github.com/YannHY/html-css-js/blob/main/Ressources.md)
 
 ## Première partie (HTML)
-1. [[1.1 Introduction | Introduction]]
-2. [[1.2 Qu'est-ce que le web ? | Qu'est-ce que le web ?]]
-3. [[1.3 Qu'est-ce qu'un langage de balisage ? | Qu'est-ce qu'un langage de balisage ?]]
-4. [[1.4 Qu'est-ce que le HTML ? | Qu'est-ce que le HTML ?]]
-5. [[1.5 Utiliser un éditeur de code | Utiliser un éditeur de code]]
-6. [[1.6 Créer sa première page web | Créer sa première page web]]
-7. [[1.7 Manipuler le texte | Manipuler le texte]]
-8. [[1.8 Créer des liens | Créer des liens]]
-9. [[1.9 Ajouter des images | Ajouter des images]]
-10. [[1.10 Insérer un tableau | Insérer un tableau]]
-11. [[1.11 La structure d'une page web | La structure d'une page web]]
+1. [Introduction](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.1%20Introduction.md)
+2. [Qu'est-ce que le web ?](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.2%20Qu'est-ce%20que%20le%20web%20%3F.md)
+3. [Qu'est-ce qu'un langage de balisage ?](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.3%20Qu'est-ce%20qu'un%20langage%20de%20balisage%20%3F.md)
+4. [Qu'est-ce que le HTML ?](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.4%20Qu'est-ce%20que%20le%20HTML%20%3F.md)
+5. [Utiliser un éditeur de code](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.5%20Utiliser%20un%20éditeur%20de%20code.md)
+6. [Créer sa première page web](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.6%20Créer%20sa%20première%20page%20web.md)
+7. [Manipuler le texte](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.7%20Manipuler%20le%20texte.md)
+8. [Créer des liens](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.8%20Créer%20des%20liens.md)
+9. [Ajouter des images](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.9%20Ajouter%20des%20images.md)
+10.[Insérer un tableau](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.10%20Insérer%20un%20tableau.md)
+11. [La structure d'une page web](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.11%20La%20structure%20d'une%20page%20web.md)
 
 ### Exercices
 - [[Exercice 1]]
