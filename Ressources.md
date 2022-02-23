@@ -1,5 +1,5 @@
 ---
-tags: [documentation, HTML, CSS, JavaScript]
+tags: [HTML, CSS, JavaScript]
 author: [Yann Houry]
 date: 01-01-2022
 ---
