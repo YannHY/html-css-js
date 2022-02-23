@@ -26,23 +26,23 @@ date: 01-01-2022
 - [Exercice 3](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%203.md)
 
 ## Deuxième partie (CSS)
-1. [Présentation de CSS]
-2. [Où écrire le CSS ?]
-3. [Modifier le texte]
-4. [Héritage]
-5. [Class et id]
-6. [Les couleurs]
-7. [Modifier les liens]
-8. [Le modèle de boîte]
-9. [Margin et padding]
-10. [Les types de boite]
-11. [La position]
-12. [Outils de développement]
+1. [Présentation de CSS](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.1%20Présentation%20de%20CSS.md)
+2. [Où écrire le CSS ?](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.2%20Où%20écrire%20le%20CSS%20%3F.md)
+3. [Modifier le texte](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.3%20Modifier%20le%20texte.md)
+4. [Héritage](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.4%20Héritage.md)
+5. [Class et id](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.5%20Class%20et%20id.md)
+6. [Les couleurs](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.6%20Les%20couleurs.md)
+7. [Modifier les liens](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.7%20Modifier%20les%20liens.md)
+8. [Le modèle de boîte](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.8%20Le%20modèle%20de%20boîte.md)
+9. [Margin et padding](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.9%20Margin%20et%20padding.md)
+10. [Les types de boite](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.10%20Les%20types%20de%20boite.md)
+11. [La position](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.11%20La%20position.md)
+12. [Outils de développement](https://github.com/YannHY/html-css-js/blob/main/2.%20Deuxième%20partie/2.12%20Outils%20de%20développement.md)
 
 ### Exercices
-- [Exercice 4]
-- [Exercice 5]
-- [Exercice 6]
+- [Exercice 4](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%204.md)
+- [Exercice 5](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%205.md)
+- [Exercice 6](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%206.md)
 
 ## Troisième partie (Flexbox & Grid)
 1. [Flexbox (introduction)]
@@ -51,9 +51,9 @@ date: 01-01-2022
 4. [Les propriétés de Grid]
 
 ### Exercices
-- [Exercice 7]
-- [Exercice 8]
-- [Exercice 9]
+- [Exercice 7](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%207.md)
+- [Exercice 8](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%208.md)
+- [Exercice 9](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%209.md)
 
 ## Quatrième partie (Responsive design & Mode sombre)
 1. [Créer une page « responsive design »]
@@ -61,8 +61,8 @@ date: 01-01-2022
 3. [Intégrer un mode sombre (CSS uniquement)]
 
 ### Exercices
-- [Exercice 10]
-- [Exercice 11]
+- [Exercice 10](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%2010.md)
+- [Exercice 11](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%2011.md)
 
 ## Cinquième partie (CSS avancé, typographie, etc.)
 1. [Ajouter des icônes]
@@ -73,8 +73,8 @@ date: 01-01-2022
 6. [Insérer un iframe]
 
 ### Exercices
-- [Exercice 12]
-- [Exercice 13]
+- [Exercice 12](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%2012.md)
+- [Exercice 13](https://github.com/YannHY/html-css-js/blob/main/Exercices/Exercice%2013.md)
 
 ## Sixième partie (JavaScript)
 1. [Initiation à JavaScript]
