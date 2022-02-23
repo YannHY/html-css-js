@@ -4,7 +4,7 @@ author: [Yann Houry]
 date: 01-01-2022
 ---
 
-🏠 [[Documentation/HTML-CSS/Cours HTML CSS JS/Index | Index]] > Ressources
+🏠 [Index](https://github.com/YannHY/html-css-js/blob/main/index.md) > Ressources
 
 ## Apprendre
 - [Apprendre le développement web | MDN](https://developer.mozilla.org/fr/docs/Learn)
