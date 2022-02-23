@@ -96,11 +96,11 @@ date: 01-01-2022
 6. [Conclusion]
 
 ### Challenge
-- [Créez votre CV en ligne]
+- [Créez votre CV en ligne](https://github.com/YannHY/html-css-js/blob/main/Exercices/Créez%20votre%20CV%20en%20ligne.md)
 
 <hr />
 
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce travail est sous licence <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International</a>.
 
-Ces cours seront mis à jour régulièrement. Lire [la liste des modifications à venir].
+Ces cours seront mis à jour régulièrement. Lire [la liste des modifications à venir](https://github.com/YannHY/html-css-js/blob/main/Modifications%20à%20venir.md).
