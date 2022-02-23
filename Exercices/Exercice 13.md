@@ -1,10 +1,10 @@
 ---
-tags: [documentation, HTML, CSS]
+tags: [HTML, CSS]
 author: [Yann Houry]
 date: 29-01-2022
 ---
 
-🏠 [[Documentation/HTML-CSS/Cours HTML CSS JS/Index|Index]] > Exercice 13
+🏠 [Index](https://github.com/YannHY/html-css-js/blob/main/index.md) > Exercice 13
 
 Pour votre treizième exercice, vous allez appliquer ce que vous avez appris et donc utiliser les propriétés `transform`, `transition`, `@keyframes` et `animation`.
 
