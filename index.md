@@ -1,8 +1,10 @@
 ---
-tags: [documentation, HTML, CSS, JavaScript]
+tags: [HTML, CSS, JavaScript]
 author: [Yann Houry]
 date: 01-01-2022
 ---
+
+# Index
 
 - [Télécharger les fichiers permettant de suivre les cours et de faire les exercices](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk).
 - [Ressources](https://github.com/YannHY/html-css-js/blob/main/Ressources.md)
