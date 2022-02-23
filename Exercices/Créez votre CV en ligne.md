@@ -1,10 +1,10 @@
 ---
-tags: [documentation, HTML, CSS]
+tags: [HTML, CSS, JavaScript]
 author: [Yann Houry]
 date: 27-01-2022
 ---
 
-🏠 [[Documentation/HTML-CSS/Cours HTML CSS JS/Index|Index]] \> Créez votre CV en ligne
+🏠 [Index](https://github.com/YannHY/html-css-js/blob/main/index.md) \> Créez votre CV en ligne
 
 Pour finir ce cours dédié au HTML, CSS et JavaScript, je vous propose un **challenge** : créez votre CV en ligne sur le modèle suivant (voir les captures d'écran ci-dessous).
 
