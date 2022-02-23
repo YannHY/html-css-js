@@ -17,7 +17,7 @@ date: 01-01-2022
 7. [Manipuler le texte](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.7%20Manipuler%20le%20texte.md)
 8. [Créer des liens](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.8%20Créer%20des%20liens.md)
 9. [Ajouter des images](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.9%20Ajouter%20des%20images.md)
-10.[Insérer un tableau](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.10%20Insérer%20un%20tableau.md)
+10. [Insérer un tableau](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.10%20Insérer%20un%20tableau.md)
 11. [La structure d'une page web](https://github.com/YannHY/html-css-js/blob/main/1.%20Première%20partie/1.11%20La%20structure%20d'une%20page%20web.md)
 
 ### Exercices
