@@ -9,7 +9,7 @@ Notes prises durant l'écoute du cours [Build Responsive Real-World Websites wit
 Voir aussi [html-css-course](https://github.com/jonasschmedtmann/html-css-course)
 
 ## Introduction to Flex box
-![[container-flex.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/container-flex.png)
 
 Use the ==display== property and set it to ==flex== on some container element:
 
@@ -40,7 +40,7 @@ The grey space we see after the last flex item is simply the background color of
 
 ==Horizontally, each element takes up exactly the space that is necessary for its text content. However, vertically, by default, all the flex items are as tall as the tallest element==. If we set the height of the third element  to 150 pixels, we'll get this:
 
-![[height-150.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/height-150.png)
 
 ### Align-items (center)
 All element are ==vertically aligned== using:
@@ -49,7 +49,7 @@ All element are ==vertically aligned== using:
 align-items: center;
 ```
 
-![[vertically-aligned.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/vertically-aligned.png)
 
 The flex container still takes the height of the highest element (which is is the one of 150px) but all the other ones simply takes the space that they need for the text or in general of the content and then they get vertically aligned in the center.
 
@@ -58,14 +58,14 @@ The flex container still takes the height of the highest element (which is is th
 align-items: flex-start;
 ```
 
-![[flex-start.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/flex-start.png)
 
 #### Align-items (flex-end)
 ```css
 align-items: flex-end;
 ```
 
-![[flex-end.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/flex-end.png)
 
 By default, the value of align-items is `stretch` (we will the see the result that we had at the beginning).
 
@@ -76,16 +76,16 @@ It justifies the content ==horizontally==!
 space-between: center;
 ```
 
-![[justify-content-center.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/justify-content-center.png)
 
 #### Justify-content (space-between)
-![[justify-content-space-between.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/justify-content-space-between.png)
 
 The remaining space is now distributed evenly between all of these elements.
 
 ### Align-self
 #### Align-self: flex-start
-![[align-self-flex-start.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/align-self-flex-start.png)
 
 ```css
 .el--1 {
@@ -94,7 +94,7 @@ align-self: flex-start;
 ```
 
 #### Align-self: stretch
-![[align-self-stretch.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/align-self-stretch.png)
 
 ```css
 .el--4 {
@@ -112,7 +112,7 @@ order: -1;
 }
 ```
 
-![[order.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/order.png)
 
 #### Last
 ```css
@@ -122,7 +122,7 @@ order: 1;
 }
 ```
 
-![[order-last.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/order-last.png)
 
 ```css
 .el--1 {
@@ -131,7 +131,7 @@ order: 2;
 }
 ```
 
-![[order-last-2.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/order-last-2.png)
 
 ### Gap
 ```css
@@ -166,12 +166,12 @@ What happen here is that some elements do have actually a width of 100 px but wh
 
 Flex-box is allowed to shrink elements so that they fit the container (-> flex-shrink)
 
-![[flex-basis.png | 600]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/flex-basis.png)
 
 ### flex-shrink
 If there is not enough space in a container to fit the items with the size (that we described: `flex-basis: 200px`), then flexbox is allowed to shrink these items by default because `flex-shrink` is set to `1`. However, if we want to change that, then we can set `flex-shrink` to `0`. Now, items will be indeed 200 pixels wide.
 
-![[flex-shrink.png | 600]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/flex-shrink.png)
 
 Then, of course, the content no longer fits the container.
 
@@ -182,7 +182,7 @@ The opposite of `flex-shrink` is `flex-grow`which determine if elements are ==al
 
 We need to get rid of `flex-basis: 200px;`. Then we see that all elements have exactly the ==same size== and in total ==fill up the entire flex container==. That's exactly what `flex-grow` set to `1`is doing:
 
-![[flex-grow.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/flex-grow.png)
 
 We can use `flex-grow` with a specific element:
 
@@ -194,7 +194,7 @@ flex-grow: 1;
 }
 ```
 
-![[flex-grox-first-element.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/flex-grox-first-element.png)
 
 ==Only the first element now is allowed to fill up all the remaining space==. The others are still with the size of the content and then the remaining space is filled up bu the first element.
 
