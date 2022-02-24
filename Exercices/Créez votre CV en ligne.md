@@ -9,7 +9,7 @@ date: 27-01-2022
 
 Pour finir ce cours dédié au HTML, CSS et JavaScript, je vous propose un **challenge** : créez votre CV en ligne sur le modèle suivant (voir les captures d'écran ci-dessous).
 
-![](https://github.com/YannHY/html-css-js/blob/main/Images/cv.gif)
+![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/cv.gif)
 
 Vous aurez à utiliser à peu près tout ce que nous avons vu en HTML et CSS. Vous devrez utiliser notamment les effets d'ombre, les bordures arrondies, aussi grid et flex, insérer des icône, etc.
 
@@ -17,15 +17,15 @@ Ce challenge peut comporter quelques **bonus**. Vous pouvez bien sûr réaliser 
 
 - faire que la page soit « **responsive** » et qu'elle ait un mode **sombre** ;
 
-![](https://github.com/YannHY/html-css-js/blob/main/Images/cv-dark-responsive.gif)
+![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/cv-dark-responsive.gif)
 
 - créer un **formulaire** pour qu'un éventuel employeur vous envoie un email ;
 
-![](https://github.com/YannHY/html-css-js/blob/main/Images/cv-mail.gif)
+![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/cv-mail.gif)
 
 - rendre les tags (mots-clés) **cliquables** si bien qu'ils affichent une petite fenêtre modale (en JavaScript) afin d'afficher quelques informations supplémentaires.
 
-![](https://github.com/YannHY/html-css-js/blob/main/Images/cv-tag.gif)
+![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/cv-tag.gif)
 
 Bon courage ! Et comme toujours, vous trouverez la solution dans ce dossier.
 
