@@ -4,11 +4,13 @@ author: [Yann Houry]
 date: 09-01-2022
 ---
 
+# Exercice 7
 Pour maîtrise [[3.1 Flexbox (introduction) |flexbox]], je vous recommande de jouer à ce jeu tout en regardant la documentation de MDN ([flex](https://developer.mozilla.org/fr/docs/Web/CSS/flex)) :
 
 [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 
-![[flexbox-froggy.png | 600]]
+![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/flexbox-froggy.png)
+
 Le principe est simple. 
 
 - L'étang est le conteneur flex.
