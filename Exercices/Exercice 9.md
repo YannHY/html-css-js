@@ -7,7 +7,7 @@ date: 10-01-2022
 # Exercice 9
 Pour maîtriser grid, vous pouvez vous entraîner avec ce jeu disponible sur [codepip](https://codepip.com/games/).
 
-![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/grid-garden.png)
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-garden.png)
 
 Comme pour [Flexbox Froggy](https://flexboxfroggy.com/), vous devez placer des éléments.
 
