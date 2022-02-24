@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.titre-principal,
+.titre-secondaire {
+  color: #fff;
+}
+
+.container {
+  position: relative;
+  width: 35em;
+  margin: 0 auto;
+  margin-top: 3em;
+  padding: 2.5em 5em;
+  background-color: #2b2a2a;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.07);
+}
+
+.dark-mode-btn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  padding: 5px;
+  cursor: pointer;
+  border: none;
+}
+
+.dark-mode-icon {
+  width: 30px;
+  height: 30px;
+}
+
+p {
+  margin: 1em 0;
+  line-height: 1.2;
+}
+
+.lien:link,
+.lien:visited {
+  color: #1167c9;
+}

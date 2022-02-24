@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      body {
+        background-color: #e9e7e7;
+      }
+
+      .container {
+        width: 20em;
+        margin: 0 auto;
+        margin-top: 3em;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding: 2em;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.07);
+      }
+
+      img {
+        width: 20em;
+        margin-bottom: 1em;
+        border-radius: 6px;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.07);
+        animation-name: imgLeft;
+        animation-duration: 1s;
+        animation-timing-function: ease-out;
+      }
+
+      @keyframes imgLeft {
+        0% {
+          opacity: 0;
+          transform: translateX(-2em);
+        }
+
+        80% {
+          transform: translate(0.5em);
+        }
+
+        100% {
+          opacity: 1;
+          transform: translate(0);
+        }
+      }
+
+      button {
+        background-color: #119ac4;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        padding: 0.8em 1em;
+        cursor: pointer;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.07);
+        transition: all 0.4s;
+      }
+
+      button:hover {
+        transform: translateY(-0.3em);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img src="../../projet-final/images/xiao.jpg" alt="" class="img-dessin" />
+      <button>Télécharger</button>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="Site pour découvrir des figures de style"
+    />
+    <link rel="icon" href="../images/favicon.jpg" />
+    <link href="style.css" rel="stylesheet" />
+    <title>Le jeu des figures</title>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+  </head>
+  <body>
+    <header>
+      <h1 class="titre-principal">Le jeu des figures</h1>
+      <p class="description">
+        Un petit jeu sous les auspices de Pierre Fontanier
+      </p>
+      <nav>
+        <a href="index.html">Figure 1</a>
+        <a href="figure-2.html">Figure 2</a>
+        <a href="figure-3.html">Figure 3</a>
+      </nav>
+    </header>
+
+    <main>
+      <article>
+        <img
+          src="../images/auteur.png"
+          alt="Photo de l'auteur"
+          class="auteur"
+        />
+        <p class="information">Écrit par Yann Houry le 1 janvier 2021</p>
+      </article>
+
+      <article>
+        <a name="figure-1"></a>
+        <h2 class="titre-secondaire">Figure 1</h2>
+        <img
+          src="../images/fontanier.jpg"
+          alt="Couverture du livre de Pierre Fontanier Les figures du discours"
+          width="200px"
+        />
+
+        <h3 class="titre-tertiaire">Explication du jeu</h3>
+        <p>
+          Depuis quelque temps, lors de mes lectures, je glane des exemples de
+          <a
+            href="https://www.ralentirtravaux.com/lettres/cours/figures_style.php"
+            >figures de style</a
+          >
+          afin d’en faire des exercices pour mes élèves de troisième. Comme
+          j’attends d’en avoir davantage, je n’ai pas commencé ces exercices.
+          Mais, pour vous en donner un avant goût, je vous propose un petit jeu.
+        </p>
+
+        <p>
+          C’est très simple. Il suffit, dans les commentaires, d’identifier la
+          figure que contient la citation proposée. Pour commencer, en voici une
+          (facile) de Guy de Maupassant.
+        </p>
+
+        <p>
+          Une fois la figure trouvée, on peut l’expliquer, discuter du passage
+          d’où elle est extraite, la rapprocher d’autres œuvres, etc.
+        </p>
+
+        <h3 class="titre-tertiaire">À vous de jouer</h3>
+        <p>Quelle figure trouvez-vous ?</p>
+        <blockquote>
+          <span class="guillemets">«</span> Devant les cafés, un peuple d’hommes
+          buvait des boissons brillantes et colorées qu’on aurait prises pour
+          des pierres précieuses fondues dans le cristal. <span
+            class="guillemets"
+            >»</span
+          >
+          (« Tombouctou », <em>Les Contes du jour et de la nuit</em>)
+        </blockquote>
+        <p>
+          Donnez votre réponse dans les <strong>commentaires</strong> ou
+          regardez simplement la <strong>réponse</strong>. (↓).
+        </p>
+
+        <button class="solution">Voir la réponse</button>
+        <div class="reponse cache">
+          C'est une comparaison. Les « boissons brillantes et colorées » sont
+          comparées à des « pierres précieuses ». L'élément de comparaison est
+          « qu'on aurait prises ».
+        </div>
+
+        <h3 class="titre-tertiaire">Commentaires</h3>
+        <div class="commentaires">
+          <div
+            id="cusdis_thread"
+            data-host="https://cusdis.com"
+            data-app-id="7dd14fa3-e80e-42c5-b621-f9b8550305c0"
+            data-page-id="{{ PAGE_7 }}"
+            data-page-url="{{ PAGE_URL }}"
+            data-page-title="{{ Figure 1 }}"
+            data-theme="auto"
+          ></div>
+          <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+        </div>
+      </article>
+    </main>
+
+    <footer>
+      <div class="container">
+        <ul class="liste">
+          <li>
+            <a href="#" title="Twitter">
+              <ion-icon name="logo-twitter" class="icone"></ion-icon>
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Instagram">
+              <ion-icon name="logo-instagram" class="icone"></ion-icon>
+            </a>
+          </li>
+          <li>
+            <a href="#" title="YouTube">
+              <ion-icon name="logo-youtube" class="icone"></ion-icon>
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Pinterest">
+              <ion-icon name="logo-pinterest" class="icone"></ion-icon>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <p>
+        Copyleft (vous pouvez copier, coller et modifier tout ce que vous
+        voulez)
+      </p>
+      <p>2007-2022</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

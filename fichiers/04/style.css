@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  color: #494848;
+}
+
+h1 {
+  font-size: 40px;
+  color: #c15cd3;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 30px;
+  color: #c15cd3;
+}
+
+footer {
+  font-size: 40px;
+  background-color: #d4aedb;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.lien-tel {
+  color: #fff;
+}

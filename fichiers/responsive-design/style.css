@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+section {
+  max-width: 80%;
+  margin: auto;
+  margin-top: 60px;
+  padding: 20px;
+  background-color: rgb(204, 202, 202);
+}
+
+p {
+  margin-bottom: 30px;
+}

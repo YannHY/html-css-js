@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulaire</title>
+
+    <style>
+      body {
+        background-color: #e9e7e7;
+      }
+
+      h1 {
+        font-family: sans-serif;
+      }
+
+      .container {
+        width: 35em;
+        margin: 0 auto;
+        margin-top: 3em;
+        padding: 2.5em 5em;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.07);
+      }
+
+      .form-contact {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5em;
+      }
+
+      /* .form-contact div {
+        width: 85%;
+        margin: auto;
+      } */
+
+      .form-contact label {
+        display: block;
+        margin-bottom: 0.7em;
+        font-size: 1em;
+        font-weight: bold;
+        font-family: sans-serif;
+        /* font-family: inherit; */
+      }
+
+      .form-contact input,
+      .form-contact textarea {
+        width: 95%;
+        padding: 0.5em;
+        margin-bottom: 1em;
+        border-radius: 8px;
+        border: none;
+        background-color: #f0eeee;
+        box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07);
+      }
+
+      .form-contact textarea {
+        height: 8em;
+        font-family: sans-serif;
+      }
+
+      button {
+        margin-top: 1em;
+        margin-bottom: 2em;
+        background-color: #119ac4;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        padding: 0.5em 1em;
+        cursor: pointer;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.07);
+        transition: all 0.4s;
+      }
+
+      button:hover {
+        background-color: #0f81a4;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Contact</h1>
+      <form class="form-contact" action="#">
+        <div>
+          <label>Nom & Prénom</label>
+          <input type="text" placeholder="Nom & Prénom" required />
+        </div>
+
+        <div>
+          <label>Adresse</label>
+          <input type="email" placeholder="Adresse email" required />
+        </div>
+
+        <div>
+          <label>Objet</label>
+          <input type="text" placeholder="Objet" required />
+        </div>
+
+        <div>
+          <label>Message</label>
+          <textarea
+            type="text"
+            placeholder="Écrivez votre message"
+            required
+          ></textarea>
+        </div>
+        <div>
+          <button>Envoyer</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

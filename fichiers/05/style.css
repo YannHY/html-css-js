@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  border: solid 5px #d4aedb;
+  font-family: sans-serif;
+  margin: 20px;
+  color: #494848;
+}
+
+header {
+  padding-top: 0;
+  background-color: #d4aedb;
+}
+
+h1 {
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px 0;
+}
+
+h2 {
+  font-size: 30px;
+  color: #c15cd3;
+  margin-top: 30px;
+}
+
+.img-dessin {
+  width: 300px;
+}
+
+.paragraphe {
+  line-height: 1.4;
+  margin-top: 20px;
+}
+
+.personnage {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.liste {
+  margin-left: 30px;
+  margin-top: 25px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+article {
+  padding: 20px 40px;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 40px;
+  background-color: #d4aedb;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+.lien:link,
+.lien:visited {
+  color: #b35dc2;
+  text-decoration: none;
+}
+
+.lien:hover,
+.lien:active {
+  color: #801792;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.lien-tel:link,
+.lilien-tel:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.lien-tel:hover,
+.lien-tel:active {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: underline;
+}
