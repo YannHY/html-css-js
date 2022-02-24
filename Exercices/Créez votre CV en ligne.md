@@ -4,11 +4,12 @@ author: [Yann Houry]
 date: 27-01-2022
 ---
 
-🏠 [Index](https://github.com/YannHY/html-css-js/blob/main/index.md) \> Créez votre CV en ligne
+# Créez votre CV en ligne
+🏠 [Index](https://github.com/YannHY/html-css-js/blob/main/index.md) > Créez votre CV en ligne
 
 Pour finir ce cours dédié au HTML, CSS et JavaScript, je vous propose un **challenge** : créez votre CV en ligne sur le modèle suivant (voir les captures d'écran ci-dessous).
 
-![[cv.gif | 600]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/cv.gif)
 
 Vous aurez à utiliser à peu près tout ce que nous avons vu en HTML et CSS. Vous devrez utiliser notamment les effets d'ombre, les bordures arrondies, aussi grid et flex, insérer des icône, etc.
 
@@ -16,21 +17,20 @@ Ce challenge peut comporter quelques **bonus**. Vous pouvez bien sûr réaliser 
 
 - faire que la page soit « **responsive** » et qu'elle ait un mode **sombre** ;
 
-![[cv-dark-responsive.gif | 600]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/cv-dark-responsive.gif)
 
 - créer un **formulaire** pour qu'un éventuel employeur vous envoie un email ;
 
-![[cv-mail.gif | 600]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/cv-mail.gif)
+
 - rendre les tags (mots-clés) **cliquables** si bien qu'ils affichent une petite fenêtre modale (en JavaScript) afin d'afficher quelques informations supplémentaires.
 
-![[cv-tag.gif | 600]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/cv-tag.gif)
 
 Bon courage ! Et comme toujours, vous trouverez la solution dans ce dossier.
 
-Vous pouvez également [prévisualiser le CV à cette adresse][1].
+Vous pouvez également [prévisualiser le CV à cette adresse](https://cv-challenge.netlify.app).
 
 
-📁 [Voir le dossier cv-challenge][2]
+📁 [Voir le dossier cv-challenge](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk)
 
-[1]:	https://cv-challenge.netlify.app
-[2]:	https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk
