@@ -4,6 +4,7 @@ author: [Jonas Schmedtmann]
 date: [21-11-2021]
 ---
 
+# Flex (notes)
 Notes prises durant l'écoute du cours [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/share/101Wtc3@sgrppz3UDr4S6-dvSFLOKP5Arb7ULD8F-YwVDO7Lx6kIdeKOMiOIuQ6SPAUJIhUj/)
 
 Voir aussi [html-css-course](https://github.com/jonasschmedtmann/html-css-course)
