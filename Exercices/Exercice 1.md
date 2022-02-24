@@ -3,7 +3,7 @@ tags: [HTML]
 author: [Yann Houry]
 date: 01-01-2022
 ---
-
+# Exercice 1
 ## Consignes
 Pour nous entraîner, nous allons construire une page web s'inspirant d'un jeu que j'avais créé il y a quelques années. Il s'agissait de proposer une figure de style sur mon blog et de demander à mes lecteurs de l'identifier ([lien](https://www.ralentirtravaux.com/le_blog/un-petit-jeu-sous-les-auspices-de-pierre-fontanier/)).
 
