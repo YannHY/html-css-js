@@ -7,7 +7,7 @@ date: 01-01-2022
 # Exercice 3
 Vous allez créer une page web comme celle-ci.
 
-![](https://github.com/YannHY/html-css-js/blob/main/Images/dessins-leopoldine-3.png)
+![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/dessins-leopoldine-3.png)
 
 C'est en fait un portfolio en ligne qu'un élève pourrait créer pour partager ses créations (ici des dessins).
 
