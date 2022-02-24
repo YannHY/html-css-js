@@ -1,9 +1,10 @@
 ---
-tags: [Documentation, CSS, grid]
+tags: [CSS, grid]
 author: [Jonas Schmedtmann]
 date: [21-11-2021]
 ---
 
+# Grid (notes)
 Notes prises durant l'écoute du cours [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/share/101Wtc3@sgrppz3UDr4S6-dvSFLOKP5Arb7ULD8F-YwVDO7Lx6kIdeKOMiOIuQ6SPAUJIhUj/)
 
 Voir aussi [html-css-course](https://github.com/jonasschmedtmann/html-css-course)
@@ -15,9 +16,10 @@ Voir aussi [html-css-course](https://github.com/jonasschmedtmann/html-css-course
 - CSS Grid is not meant to replace flexbox! Instead, they work perfectly together. ==Need a 1D layout? Use flexbox. Need a 2D layout? Use CSS Grid==
 
 ### 1D layout
-![[2D-flexbox.jpg | 400]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/2D-flexbox.jpg)
+
 ### 2D layout
-![[3D-grid.jpg | 400]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/3D-grid.jpg)
 
 Like with flex box, we have a grid container and grid items.
 And as with flex box, we have a column axis and a row axis.
@@ -72,15 +74,14 @@ column-gap: 30px;
 row-gap: 60px;
 }
 ```
-
-![[grid.png | 400]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid.png)
 
 ## FR
 A very new unit: `fr` (to create flexible rows and flexible columns).
 
 `1fr` stands for "fractional" or just "fraction". It avoids you to specify the width manually.
 
-![[grid-1-fr.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-1-fr.png)
 
 All columns will have the same size:
 
@@ -104,7 +105,8 @@ If we change the size of the first column:
 grid-template-columns: 2fr 1fr 1fr 1fr;
 ```
 
-![[grid-2-fr.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-2-fr.png)
+
 Instead of writing this (`grid-template-columns: 2fr 1fr 1fr 1fr;`), we have a function:
 
 ```css
@@ -130,7 +132,7 @@ row-gap: 40px;
 }
 ```
 
-![[rows-fr.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/rows-fr.png)
 
 The 'auto' keyword can be used too:
 
@@ -138,7 +140,7 @@ The 'auto' keyword can be used too:
 grid-template-rows: 1fr auto;
 ```
 
-![[grid-rows-auto.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-rows-auto.png)
 
 ## Placing and Spanning Grid Items
 We are going to move the eighth element and put it to the second place.
@@ -153,14 +155,14 @@ grid-column: 2 / 3;
 
 Don't pay attention to the negative values.
 
-![[grid-inspector.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-inspector.png)
 
 ```css
 grid-column: 2 / 3;
 grid-row: 1 /2;
 ```
 
-![[grid-column-row.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-column-row.png)
 
 ```css
 .el--2 {
@@ -169,7 +171,7 @@ grid-row: 2 / 3;
 }
 ```
 
-![[grid-column-row-2.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-column-row-2.png)
 
 If the value following the first one is only one more than the first, we can omit it:
 
@@ -189,7 +191,7 @@ grid-row: 2 / 3;
 }
 ```
 
-![[grid-column-row-3.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-column-row-3.png)
 
 ```css
 .el--2 {
@@ -209,7 +211,7 @@ grid-row: 2 / 3;
 }
 ```
 
-![[grid-column-row-4.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-column-row-4.png)
 
 We can either write (if we want to avoid to manually spanning and if we want a element to span all the way to the end):
 
@@ -229,7 +231,7 @@ grid-row: 2 / 3;
 }
 ```
 
-![[grid-minus-1.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-minus-1.png)
 
 We can create a new row:
 
@@ -239,7 +241,7 @@ grid-row: 3 / 6;
 }
 ```
 
-![[new-row.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/new-row.png)
 
 ## Aligning Grid Items and Tracks
 ### Aligning Tracks Inside the Container
@@ -265,7 +267,7 @@ align-content: center;
 }
 ```
 
-![[grid-align-center.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-align-center.png)
 
 ### Aligning Items Inside cells
 Moving items around inside cell
@@ -298,7 +300,7 @@ justify-items: center;
 }
 ```
 
-![[grid-align-items-center.png]]
+![](https://github.com/YannHY/html-css-js/blob/main/Images/grid-align-items-center.png)
 
 We can overwrite the `align-items` or the `justify-items` properties (like in flex-box) to target one individual item:
 
