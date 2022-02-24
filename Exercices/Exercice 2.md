@@ -4,6 +4,7 @@ author: [Yann Houry]
 date: 01-01-2022
 ---
 
+# Exercice 2
 Nous allons poursuivre le développement de notre site en ajoutant un tableau contenant les **cinq premières figures de style** rencontrées.
 
 Ce tableau devra contenir cinq colonnes incluant :
