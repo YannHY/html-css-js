@@ -6,7 +6,7 @@ date: 01-01-2022
 
 # Index
 
-- [Télécharger les fichiers permettant de suivre les cours et de faire les exercices](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk).
+- [Télécharger les fichiers permettant de suivre les cours et de faire les exercices](https://github.com/YannHY/html-css-js/tree/main/fichiers).
 - [Ressources](https://github.com/YannHY/html-css-js/blob/main/Ressources.md)
 
 ## Première partie (HTML)
