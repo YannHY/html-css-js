@@ -20,3 +20,10 @@ Vous trouverez [l'index à cette adresse](https://github.com/YannHY/html-css-js/
 [Ce dossier](https://github.com/YannHY/html-css-js/tree/main/fichiers) met à votre disposition le code que nous écrivons durant le cours ainsi que la solution des exercices ainsi que du challenge.
 
 Ce cours entend être mis à jour régulièrement, ce que vous pouvez voir en parcourant [ce fichier](https://github.com/YannHY/html-css-js/blob/main/Modifications%20à%20venir.md).
+
+<hr />
+
+## Licence
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce travail est sous licence <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+Ces cours seront mis à jour régulièrement. Lire [la liste des modifications à venir](https://github.com/YannHY/html-css-js/blob/main/Modifications%20à%20venir.md).
