@@ -13,6 +13,8 @@ Nous allons créer une page web composée de cinq parties (cinq figures).
 2. Nous ajouterons le texte (à copier & coller) et le formaterons.
 3. Nous ajouterons les liens et les images.
 
+![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/exercice1.png)
+
 Faisons ensemble ce premier exercice.
 
 📁 [Voir le dossier 01](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk) pour trouver le texte à copier ainsi que les images.
