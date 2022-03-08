@@ -15,4 +15,4 @@ Cette page contient un titre, une image et une courte description. Une liste ind
 
 Vous devez donc créer cette page. Si vous le souhaitez, vous pouvez créer cette page en utilisant [CODEPEN](https://codepen.io). 
 
-📁 [Voir les dossiers 03 et images](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk) dans lequel vous trouverez notamment le texte à copier.
+📁 [Voir les dossiers 03 et images](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk) dans lesquels vous trouverez notamment le texte à copier.
