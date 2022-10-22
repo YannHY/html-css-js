@@ -10,6 +10,8 @@ date: 01-01-2022
 - [Apprendre le développement web | MDN](https://developer.mozilla.org/fr/docs/Learn)
 - [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3) (OpenClassrooms)
 - [HTML Tutorials](https://www.w3schools.com/html/default.asp) (W3C)
+- [HTML & CSS for Beginners](https://webdesign.tutsplus.com/articles/html-css-for-beginners-mega-free-course—cms-93199)
+- [Tutoriel site web](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/) (déployer un site web depuis un dépôt git avec le framework material pour mkdocs)
 - [alsacréations](https://www.alsacreations.com/tutoriels/)
 - [codepip](https://codepip.com/games/)
 - [Les bases de JavaScript (MDN)](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
